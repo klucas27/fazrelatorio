@@ -56,7 +56,6 @@ for pas in range(0, tt_ped):
     st_mke += 1
     tt_pd += 1
 
-tt_pd -= 1
 
 add_pl.save('Relat.xlsx')
 print('-'*50)
