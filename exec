@@ -1,1 +1,6 @@
+# User pyinstaller
 pyinstaller -y -n Faz-Relatorio --clean --onefile main.py
+
+
+#Install Requirements
+pip install -r requirements.txt
