@@ -1,0 +1,1 @@
+pyinstaller -y -n Faz-Relatorio --clean --onefile main.py
